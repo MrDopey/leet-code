@@ -1,3 +1,6 @@
+
+mod X01_two_sum;
+
 fn main() {
-    println!("Hello, world!");
+    X01_two_sum::run();
 }
